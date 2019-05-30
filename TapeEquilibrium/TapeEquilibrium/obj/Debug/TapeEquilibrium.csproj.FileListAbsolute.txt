@@ -1,0 +1,7 @@
+C:\Dev\Repositories\programming-tasks\TapeEquilibrium\TapeEquilibrium\bin\Debug\TapeEquilibrium.exe.config
+C:\Dev\Repositories\programming-tasks\TapeEquilibrium\TapeEquilibrium\bin\Debug\TapeEquilibrium.exe
+C:\Dev\Repositories\programming-tasks\TapeEquilibrium\TapeEquilibrium\bin\Debug\TapeEquilibrium.pdb
+C:\Dev\Repositories\programming-tasks\TapeEquilibrium\TapeEquilibrium\obj\Debug\TapeEquilibrium.csprojAssemblyReference.cache
+C:\Dev\Repositories\programming-tasks\TapeEquilibrium\TapeEquilibrium\obj\Debug\TapeEquilibrium.csproj.CoreCompileInputs.cache
+C:\Dev\Repositories\programming-tasks\TapeEquilibrium\TapeEquilibrium\obj\Debug\TapeEquilibrium.exe
+C:\Dev\Repositories\programming-tasks\TapeEquilibrium\TapeEquilibrium\obj\Debug\TapeEquilibrium.pdb

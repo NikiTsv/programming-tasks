@@ -1,0 +1,7 @@
+C:\Dev\Repositories\programming-tasks\PermCheck\PermCheck\bin\Debug\PermCheck.exe.config
+C:\Dev\Repositories\programming-tasks\PermCheck\PermCheck\bin\Debug\PermCheck.exe
+C:\Dev\Repositories\programming-tasks\PermCheck\PermCheck\bin\Debug\PermCheck.pdb
+C:\Dev\Repositories\programming-tasks\PermCheck\PermCheck\obj\Debug\PermCheck.csprojAssemblyReference.cache
+C:\Dev\Repositories\programming-tasks\PermCheck\PermCheck\obj\Debug\PermCheck.csproj.CoreCompileInputs.cache
+C:\Dev\Repositories\programming-tasks\PermCheck\PermCheck\obj\Debug\PermCheck.exe
+C:\Dev\Repositories\programming-tasks\PermCheck\PermCheck\obj\Debug\PermCheck.pdb

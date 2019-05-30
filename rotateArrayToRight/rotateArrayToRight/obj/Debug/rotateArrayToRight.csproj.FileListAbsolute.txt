@@ -1,0 +1,7 @@
+C:\Users\N1gh7b1rd\source\repos\rotateArrayToRight\rotateArrayToRight\bin\Debug\rotateArrayToRight.exe.config
+C:\Users\N1gh7b1rd\source\repos\rotateArrayToRight\rotateArrayToRight\bin\Debug\rotateArrayToRight.exe
+C:\Users\N1gh7b1rd\source\repos\rotateArrayToRight\rotateArrayToRight\bin\Debug\rotateArrayToRight.pdb
+C:\Users\N1gh7b1rd\source\repos\rotateArrayToRight\rotateArrayToRight\obj\Debug\rotateArrayToRight.csprojAssemblyReference.cache
+C:\Users\N1gh7b1rd\source\repos\rotateArrayToRight\rotateArrayToRight\obj\Debug\rotateArrayToRight.csproj.CoreCompileInputs.cache
+C:\Users\N1gh7b1rd\source\repos\rotateArrayToRight\rotateArrayToRight\obj\Debug\rotateArrayToRight.exe
+C:\Users\N1gh7b1rd\source\repos\rotateArrayToRight\rotateArrayToRight\obj\Debug\rotateArrayToRight.pdb

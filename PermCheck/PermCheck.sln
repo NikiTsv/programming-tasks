@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermCheck", "PermCheck\PermCheck.csproj", "{01426E97-2A76-4019-B733-484CF8F1979E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01426E97-2A76-4019-B733-484CF8F1979E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01426E97-2A76-4019-B733-484CF8F1979E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01426E97-2A76-4019-B733-484CF8F1979E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01426E97-2A76-4019-B733-484CF8F1979E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E69FED78-A877-43F9-BCF4-8A788B6532D7}
+	EndGlobalSection
+EndGlobal
