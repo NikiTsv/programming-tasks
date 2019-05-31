@@ -77,8 +77,8 @@ namespace FrogRiverOne
             {
                 var sec = i;
                 var pos = A[i];
-                Console.WriteLine("sec:" + i);
-                Console.WriteLine("pos" + pos);
+                //Console.WriteLine("sec:" + i);
+                //Console.WriteLine("pos" + pos);
 
                 if (!filledWithLeaves[pos]) { 
                     filledWithLeaves[pos] = true;
@@ -88,16 +88,16 @@ namespace FrogRiverOne
                 if(currPos == (pos - 1) || filledWithLeaves[currPos + 1])
                 {
                     currPos++;
-                    Console.WriteLine("advancing to: " + currPos);
+                    //Console.WriteLine("advancing to: " + currPos);
                 }
 
                 if(filledLeaves == filledWithLeaves.Length-1)
                 {
-                    Console.WriteLine("all leaves are filled");
+                    //Console.WriteLine("all leaves are filled");
                     goalReached = true;
                     break;
                 }
-                Console.WriteLine("-------------");
+                //Console.WriteLine("-------------");
 
                 totalTime++;
 
