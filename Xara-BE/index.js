@@ -7,8 +7,8 @@ const main = (data) => {
     const tierOrder = {};
     let maxTier = 0;
 
-    for (let i = 0; i < data.length; i++) {
-        const el = data[i];
+    for (let i = 0; i < dataCopy.length; i++) {
+        const el = Object.assign({}, dataCopy[i]);
         const len = el.tier.length;
         if (!tierMap[len]) {
             tierMap[len] = [];
@@ -17,7 +17,7 @@ const main = (data) => {
         tierMap[len].push(el);
     }
 
-    // console.log('tiermap', tierMap);
+    //console.log('tiermap', tierMap);
 
     for (let prop in tierMap) {
         const tier = tierMap[prop];

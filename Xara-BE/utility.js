@@ -6,7 +6,7 @@ module.exports = {
           return rv;
         }, {});
     },
-    getParentsFromGroupAndAddFirstChild:  function getParentsFromGroupAndAddFirstChild(group) {
+    getParentsFromGroupAndAddFirstChild:  function (group) {
         const parents = [];
 
         for (let gr in group) {
