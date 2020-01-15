@@ -1,7 +1,0 @@
-C:\Users\N1gh7b1rd\source\repos\sortalphanumstr\sortalphanumstr\bin\Debug\sortalphanumstr.exe.config
-C:\Users\N1gh7b1rd\source\repos\sortalphanumstr\sortalphanumstr\bin\Debug\sortalphanumstr.exe
-C:\Users\N1gh7b1rd\source\repos\sortalphanumstr\sortalphanumstr\bin\Debug\sortalphanumstr.pdb
-C:\Users\N1gh7b1rd\source\repos\sortalphanumstr\sortalphanumstr\obj\Debug\sortalphanumstr.csprojAssemblyReference.cache
-C:\Users\N1gh7b1rd\source\repos\sortalphanumstr\sortalphanumstr\obj\Debug\sortalphanumstr.csproj.CoreCompileInputs.cache
-C:\Users\N1gh7b1rd\source\repos\sortalphanumstr\sortalphanumstr\obj\Debug\sortalphanumstr.exe
-C:\Users\N1gh7b1rd\source\repos\sortalphanumstr\sortalphanumstr\obj\Debug\sortalphanumstr.pdb

@@ -1,7 +1,0 @@
-C:\Users\N1gh7b1rd\source\repos\dupinarray\dupinarray\bin\Debug\dupinarray.exe.config
-C:\Users\N1gh7b1rd\source\repos\dupinarray\dupinarray\bin\Debug\dupinarray.exe
-C:\Users\N1gh7b1rd\source\repos\dupinarray\dupinarray\bin\Debug\dupinarray.pdb
-C:\Users\N1gh7b1rd\source\repos\dupinarray\dupinarray\obj\Debug\dupinarray.csprojAssemblyReference.cache
-C:\Users\N1gh7b1rd\source\repos\dupinarray\dupinarray\obj\Debug\dupinarray.csproj.CoreCompileInputs.cache
-C:\Users\N1gh7b1rd\source\repos\dupinarray\dupinarray\obj\Debug\dupinarray.exe
-C:\Users\N1gh7b1rd\source\repos\dupinarray\dupinarray\obj\Debug\dupinarray.pdb
